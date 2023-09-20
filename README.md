@@ -5,7 +5,7 @@ Desenvolvido por Henrique, Hedlandio, Pierre e Ewerton
 O algoritmo consiste em apresentar uma calculadora simples de Imposto de renda.
 Possui 4 opções de cálculo.
 
-A primeira calcula o valor de retenção de imposto de renda conformefaixa salarial;
+A primeira calcula o valor de retenção de imposto de renda conforme faixa salarial;
 
 A segunda calcula o valor que será deduzido do imposto de renda com despesas como educação, saúde, previdência oficial e previdência privada;
 
